@@ -1,0 +1,96 @@
+ .bandera {
+background-color: white;
+width: 500px;
+height: 300px;
+margin: 20px;
+border: 1px solid black;
+float: left;
+position: relative;
+
+        }
+
+.esp1 {
+    background-color: #AD1519;
+    height: 26%;
+    
+      }
+
+.esp2 {
+    background-color:#FABD00;
+    height: 48%;
+
+      }
+
+.din1 {
+    width: 140px;
+    height: 140px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+      }
+    
+    
+.din2 {
+    width: 330px;
+    height: 140px;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    left: 170px;
+      }
+
+.din3 {
+    width: 330px;
+    height: 140px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 170px;
+    
+      }
+
+.din4 {
+    width: 140px;
+    height: 140px;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+   
+      }
+
+.ea1 {
+    width: 130px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    }
+.ea2 {
+    width: 370px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    }
+
+.ea3 {
+    width: 370px;
+    height: 100px;
+    background-color: #000000;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    }
+
+ .redondo {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 75px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+        }

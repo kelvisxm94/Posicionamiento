@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .main {
+    margin: 5px;
+    display: flex;
+  }
+  .box {
+    padding: 5px;
+    width: 25%;
+    display: inline-block;
+  }
+  .img_width{
+      width: 100%;
+  }
+  nav{
+    position: fixed;
+    background-color: green;
+    top: 0;
+    height: 200px;
+    z-index: 2;
+  }
+  .contenedor{
+    position: relative;
+    padding-top: 200px;
+  }

@@ -1,0 +1,12 @@
+.contenedor{
+    position: relative;
+    width: 500px;
+}
+.img_baterias{
+    width: 500px;
+}
+.img_car{
+    position: absolute;
+    bottom: 135px;
+    right: 25px;
+}
